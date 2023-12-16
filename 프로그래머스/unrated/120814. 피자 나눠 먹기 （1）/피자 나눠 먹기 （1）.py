@@ -1,5 +1,3 @@
-import math
-
 def solution(n):
     
     if n % 7 == 0:
